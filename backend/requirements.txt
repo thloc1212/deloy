@@ -3,9 +3,7 @@ fastapi
 uvicorn[standard]
 python-multipart
 
-# Audio Processing
-soundfile
-torchaudio
+
 
 # Deep Learning
 torch
@@ -16,8 +14,7 @@ numpy
 gTTS
 groq
 
-# LLM
-google-generativeai
+
 
 # Database
 supabase
